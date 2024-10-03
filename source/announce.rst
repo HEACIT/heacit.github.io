@@ -4,9 +4,10 @@ Announcements
 -------------
 
 SIXTE Workshop 2024
+-------------------
 
 We are happy to announce our next hands-on SIXTE workshop taking place
-November 6th to 8th 2024 at SRON in Leiden.
+at SRON in Leiden from November 6th to 8th 2024.
 
 SIXTE is a software package for simulations of X-ray observations, which
 is used as the official end-to-end simulator for both current and future

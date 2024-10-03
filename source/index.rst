@@ -25,7 +25,11 @@ interoperability with datasets at other wavelengths.
    member
    forum
 
+Other spaces with HEACIT information and activities:
 
+- `HEACIT Openastronomy Forum <https://community.openastronomy.org/c/heacit/20>`_
+- `HEACIT at NASA HEASARC <https://heasarc.gsfc.nasa.gov/docs/heacit/>`_
+- `HEACIT Github community <https://github.com/HEACIT>`_
 
 
 Indices and tables
