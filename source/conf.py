@@ -44,7 +44,14 @@ exclude_patterns = []
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'book'
+
+html_theme_options = {
+   "logo": {
+      "image_light": "_static/HEACIT_wht.png",
+      "image_dark": "_static/HEACIT_blk.png",
+   }
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
