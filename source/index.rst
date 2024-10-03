@@ -19,6 +19,7 @@ interoperability with datasets at other wavelengths.
    :caption: Contents:
 
    intro
+   announce
    charter
    groups
    member
