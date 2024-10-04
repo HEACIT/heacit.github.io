@@ -12,3 +12,4 @@ topics mentioned in the HEACIT :ref:`Charter`.
    future/future
    bestprac/bestprac
    community/community
+   polarization/polarization
