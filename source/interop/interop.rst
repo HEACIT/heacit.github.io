@@ -10,6 +10,13 @@ characterization.
 Members
 -------
 
-Group lead: Jelle de Plaa (vacancy)
+**Group lead:** Jelle de Plaa (vacancy)
+
+**Group members:** Abdu Zoghbi, Adam Foster, Aitor Ibarra Ibaibarriaga,
+Alfredo Luminari, Andreas Zoglauer, Andy Ptak, Aneta Siemiginowska,
+Daniela Huppenkothen, David Heunemoerder, David Turner, Douglas Burke,
+Fabrizio Nicastro, J. Michael Burgess, Keith Arnaud, Liyi Gu, Luca Baldini,
+Matteo Lucchini, Michael Nowak, Michael Wise, Mike Corcoran, Tess Jaffe,
+Tom Kent, Tyler Holland-Ashford, Tyler Parsotan, Randall Smith, Victoria Grinberg.
 
 
