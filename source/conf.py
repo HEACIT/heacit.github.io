@@ -60,3 +60,5 @@ html_static_path = ['_static']
 
 # Add the HTML base URL for sphinx-sitemap
 html_baseurl = 'https://heacit.github.io/'
+
+copyright = u'2024, HEACIT, Creative Commons Attribution 4.0 (CC-BY)'
