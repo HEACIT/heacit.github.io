@@ -50,7 +50,13 @@ html_theme_options = {
    "logo": {
       "image_light": "_static/HEACIT_wht.png",
       "image_dark": "_static/HEACIT_blk.png",
-   }
+   },
+   "repository_url": "https://github.com/HEACIT/heacit.github.io",
+   "path_to_docs": "source/",
+   "use_repository_button": True,
+   "use_issues_button": True,
+   "use_edit_page_button": True,
+   "repository_branch": "main",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -70,12 +76,4 @@ html_favicon = '_static/favicon.png'
 # Change the copyright line
 copyright = u'2024, HEACIT, Creative Commons Attribution 4.0 (CC-BY)'
 
-# Add Github edit information
-html_context = {
-    "display_github": True, # Integrate GitHub
-    "github_user": "heacit", # Username
-    "github_repo": "heacit.github.io", # Repo name
-    "github_version": "main", # Version
-    "conf_py_path": "/source/", # Path in the checkout to the docs root
-}
 
