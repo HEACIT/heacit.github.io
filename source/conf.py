@@ -61,5 +61,11 @@ html_static_path = ['_static']
 # Add the HTML base URL for sphinx-sitemap
 html_baseurl = 'https://heacit.github.io/'
 
+# Remove the last part of the page title
 html_title = ''
+
+# Add a favicon to the site
+html_favicon = '_static/favicon.png'
+
+# Change the copyright line
 copyright = u'2024, HEACIT, Creative Commons Attribution 4.0 (CC-BY)'
