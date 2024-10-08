@@ -69,3 +69,13 @@ html_favicon = '_static/favicon.png'
 
 # Change the copyright line
 copyright = u'2024, HEACIT, Creative Commons Attribution 4.0 (CC-BY)'
+
+# Add Github edit information
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "heacit", # Username
+    "github_repo": "heacit.github.io", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+}
+
