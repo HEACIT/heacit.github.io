@@ -3,6 +3,18 @@ Announcements
 
 -------------
 
+HEACIT active on BlueSky
+------------------------
+
+The HEACIT working group is now also active on BlueSky. We will post from
+time to time about HEACIT activities and topics that are interesting for
+software developers in the (high-energy) astrophysics field.
+
+You can find us using the handle `@heacit.bsky.social 
+<https://bsky.app/profile/heacit.bsky.social>`_.
+
+-------------
+
 SIXTE Workshop 2024
 -------------------
 
