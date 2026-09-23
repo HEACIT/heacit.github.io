@@ -13,5 +13,6 @@ Members
 **Group lead:** Jelle de Plaa (vacancy)
 
 **Group members:** Adam Foster, Aitor Ibarra Ibaibarriaga, Andy Ptak,
+Chinmoy Paul,
 David Turner, Lia Corrales, Matteo Lucchini, Michael Nowak, Michael Wise,
 Mike Corcoran, Tess Jaffe, Victoria Grinberg.
