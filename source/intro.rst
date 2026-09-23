@@ -12,5 +12,5 @@ and ISIS. The goal of the working group is to connect developers, align on stand
 practices and collaborate on future development, while allowing for and preserving the
 diversity of available high energy tools and workflows.
 
-The current HEACIT Chair is Jelle de Plaa. The HEACIT Steering Committee includes the
+The current HEACIT Chair is Hans Moritz Günther. The HEACIT Steering Committee includes the
 HEACIT Chair, Randall Smith, Tess Jaffe, and Michael Wise.

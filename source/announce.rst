@@ -3,6 +3,14 @@ Announcements
 
 -------------
 
+Change of HEACIT group lead
+---------------------------
+In the summer or 2026, Jelle de Plaa stepped down as HEACIT group lead and
+Hans Moritz Günther took over the role.
+
+
+-------------
+
 HEACIT active on BlueSky
 ------------------------
 
